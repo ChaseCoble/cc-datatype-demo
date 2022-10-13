@@ -1,0 +1,1 @@
+This python program demonstrates my proficiency with recognizing datatypes as well as various methods of using specifically the string data type.
